@@ -6,7 +6,7 @@ const members = {
     runningMonth    :"December-23",
     previousMonth   :"November-23", // new add
     upComingMonth   :"January 1,2024",
-    runningMealRate :63,
+    runningMealRate :102,
 
     "01814843266":{
         name:"Istiaq Ahmad Udoy",
@@ -19,7 +19,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :1,
+        running_meal    :2,
         // method calling
         previousAddedDining,
         previousDue,
@@ -45,7 +45,7 @@ const members = {
         garage_cost     :20,
         running_payable :0,
         running_paid    :0,
-        running_meal    :1,
+        running_meal    :2,
         // method calling
         previousAddedDining,
         previousDue,
@@ -72,7 +72,7 @@ const members = {
         garage_cost     :500,
         running_payable :0,
         running_paid    :0,
-        running_meal    :2,
+        running_meal    :4,
         // method calling
         previousAddedDining,
         previousDue,
@@ -99,7 +99,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :2,
+        running_meal    :4,
         // method calling
         previousAddedDining,
         previousDue,
@@ -126,7 +126,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :1,
+        running_meal    :3,
         // method calling
         previousAddedDining,
         previousDue,
@@ -152,7 +152,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :2,
+        running_meal    :4,
         // method calling
         previousAddedDining,
         previousDue,
@@ -179,7 +179,7 @@ const members = {
         garage_cost     :0,
         running_payable :0,
         running_paid    :0,
-        running_meal    :2,
+        running_meal    :4,
         // method calling
         previousAddedDining,
         previousDue,
